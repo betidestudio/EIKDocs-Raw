@@ -1,0 +1,255 @@
+{
+  "version": "3.0.2",
+  "created": "2023-06-11T14:19:33Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "authentication\\account-portal\\index.html"
+    },
+    {
+      "path": "authentication\\accountportal\\index.html",
+      "old": true
+    },
+    {
+      "path": "authentication\\developer-tool\\index.html"
+    },
+    {
+      "path": "authentication\\device-id\\index.html"
+    },
+    {
+      "path": "authentication\\deviceid\\index.html",
+      "old": true
+    },
+    {
+      "path": "authentication\\epic-launcher\\index.html"
+    },
+    {
+      "path": "authentication\\index.html"
+    },
+    {
+      "path": "authentication\\persistent-auth\\index.html"
+    },
+    {
+      "path": "authentication\\persistentauth\\index.html",
+      "old": true
+    },
+    {
+      "path": "authentication\\steam\\index.html"
+    },
+    {
+      "path": "authentication\\upcoming-methods\\index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "comman-issues\\login-loop\\index.html"
+    },
+    {
+      "path": "comman-issues\\packaging-issues\\index.html"
+    },
+    {
+      "path": "form\\index.html"
+    },
+    {
+      "path": "getting-started\\configuration\\index.html"
+    },
+    {
+      "path": "getting-started\\example-project\\index.html"
+    },
+    {
+      "path": "getting-started\\important-info\\index.html"
+    },
+    {
+      "path": "getting-started\\plugin-installation\\index.html"
+    },
+    {
+      "path": "hire-us\\index.html",
+      "old": true
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "introduction\\index.html",
+      "old": true
+    },
+    {
+      "path": "multiplayer\\dedicated-servers\\index.html"
+    },
+    {
+      "path": "multiplayer\\friend-system\\index.html"
+    },
+    {
+      "path": "multiplayer\\friends\\index.html",
+      "old": true
+    },
+    {
+      "path": "multiplayer\\index.html"
+    },
+    {
+      "path": "multiplayer\\lobbies\\index.html",
+      "old": true
+    },
+    {
+      "path": "multiplayer\\matchmaking-sessions\\index.html",
+      "old": true
+    },
+    {
+      "path": "multiplayer\\sessions\\index.html",
+      "old": true
+    },
+    {
+      "path": "multiplayer\\sessions\\lobbies\\index.html"
+    },
+    {
+      "path": "multiplayer\\sessions\\matchmaking-sessions\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\image.png"
+    },
+    {
+      "path": "static\\image2.png"
+    },
+    {
+      "path": "static\\image4.png"
+    },
+    {
+      "path": "static\\imagestep1plugininstallartion.png"
+    },
+    {
+      "path": "static\\screenshot_10.png"
+    },
+    {
+      "path": "static\\screenshot_11.png"
+    },
+    {
+      "path": "static\\screenshot_12.png"
+    },
+    {
+      "path": "static\\screenshot_13.png"
+    },
+    {
+      "path": "static\\screenshot_14.png"
+    },
+    {
+      "path": "static\\screenshot_15.png"
+    },
+    {
+      "path": "static\\screenshot_17.png"
+    },
+    {
+      "path": "static\\screenshot_18.png"
+    },
+    {
+      "path": "static\\screenshot_19.png"
+    },
+    {
+      "path": "static\\screenshot_2.png"
+    },
+    {
+      "path": "static\\screenshot_20.png"
+    },
+    {
+      "path": "static\\screenshot_21.png"
+    },
+    {
+      "path": "static\\screenshot_22.png"
+    },
+    {
+      "path": "static\\screenshot_23.png"
+    },
+    {
+      "path": "static\\screenshot_24.png"
+    },
+    {
+      "path": "static\\screenshot_25.png"
+    },
+    {
+      "path": "static\\screenshot_26.png"
+    },
+    {
+      "path": "static\\screenshot_27.png"
+    },
+    {
+      "path": "static\\screenshot_28.png"
+    },
+    {
+      "path": "static\\screenshot_3.png"
+    },
+    {
+      "path": "static\\screenshot_4.png"
+    },
+    {
+      "path": "static\\screenshot_5.png"
+    },
+    {
+      "path": "static\\screenshot_6.png"
+    },
+    {
+      "path": "static\\screenshot_7.png"
+    },
+    {
+      "path": "static\\screenshot_8.png"
+    },
+    {
+      "path": "static\\screenshot_9.png"
+    },
+    {
+      "path": "static\\spaces_rx4rnc7ndsmt2gsjbukf_uploads_ibhdkbcxjgsipcrwdygy_image.png"
+    },
+    {
+      "path": "tutorial-videos\\setup-video\\index.html"
+    },
+    {
+      "path": "voice-interaction\\setup\\index.html"
+    }
+  ]
+}

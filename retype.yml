@@ -1,0 +1,25 @@
+input: .
+output: build
+url: https://eik.betide.studio/
+branding:
+  title: EOS Integration Kit
+  label: V2
+links:
+- text: Betide Studio
+  link: https://betide.studio
+- text: Discord
+  link: https://discord.gg/betidestudio
+- text: Github
+  link: https://github.com/betidestudio
+- text: Youtube
+  link: https://www.youtube.com/channel/UC9jqL2gUwu2nErbzgeEngDQ
+- text: Linkedin
+  link: https://www.linkedin.com/in/devesh-mishra-betide/
+- text: ❤️ Marketplace
+  link: https://www.unrealengine.com/marketplace/en-US/profile/Betide+Studio
+- text: 🔥 Hire us
+  link: https://www.linkedin.com/in/devesh-mishra-betide/
+- text: 🤝 Book Consultation
+  link: https://appointmentthing.com/betidestudio/45-meet
+footer:
+  copyright: "&copy; Betide Studio Copyright {{ year }}. All rights reserved."
