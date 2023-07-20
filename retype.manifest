@@ -1,6 +1,6 @@
 {
   "version": "3.0.2",
-  "created": "2023-06-11T14:19:33Z",
+  "created": "2023-07-19T22:30:00Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -249,7 +249,14 @@
       "path": "tutorial-videos\\setup-video\\index.html"
     },
     {
-      "path": "voice-interaction\\setup\\index.html"
+      "path": "voice-interaction\\lobby-method\\index.html"
+    },
+    {
+      "path": "voice-interaction\\obvious-method\\index.html"
+    },
+    {
+      "path": "voice-interaction\\setup\\index.html",
+      "old": true
     }
   ]
 }

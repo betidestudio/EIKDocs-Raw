@@ -34,19 +34,18 @@ If you have bought the plugin, go the Epic Launcher and follow the below steps -
 
 **Done, now you have the plugin ready and are ready to move to the next step 🤝**
 
-### GitHub Edition
-[!button variant="primary" icon="download" iconAlign="left" text="Download Github Edition"](https://github.com/betidestudio/EOSIntegrationKit/releases)
+### Gitlab Edition
+[!button variant="primary" icon="download" iconAlign="left" text="Download Gitlab Edition"](https://git.betide.studio/plugins/eos-integration-kit)
 
-Github has two way to get the files, one is the Normal Clone/Download and second is the Release Section. We suggest that you use the Releases version of the plugin for which the link is linked above.
-1. Go the Github Releases Section and download the latest version for the version you are using.
+Gitlab has two way to get the files, one is the Normal Clone/Download and second is the Release Section. We suggest that you use the Releases version of the plugin for which the link is linked above.
+1. Go the Gitlab Releases Section and download the latest version for the version you are using.
 
-![](/static/Screenshot_6.png)
+![](/static/Screenshot_31.png)
 
-SidePoint - Please star the repo.
+`SidePoint - Please star the repo lol`
 
-![](/static/Screenshot_7.png)
 
-2. Create a C++ Project OR if you have a Blueprint Project already, then just add a empty C++ class and that will do the job.
+1. Create a C++ Project OR if you have a Blueprint Project already, then just add a empty C++ class and that will do the job.
 
 ![](/static/Screenshot_8.png)
 

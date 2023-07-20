@@ -1,9 +1,9 @@
 input: .
-output: build
+output: build\EIKDocs
 url: https://eik.betide.studio/
 branding:
   title: EOS Integration Kit
-  label: V2
+  label: V2.4
 links:
 - text: Betide Studio
   link: https://betide.studio
