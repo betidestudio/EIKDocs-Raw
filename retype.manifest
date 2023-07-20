@@ -1,6 +1,6 @@
 {
   "version": "3.0.2",
-  "created": "2023-07-19T22:30:00Z",
+  "created": "2023-07-20T07:39:01Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -63,7 +63,8 @@
       "path": "getting-started\\example-project\\index.html"
     },
     {
-      "path": "getting-started\\important-info\\index.html"
+      "path": "getting-started\\important-info\\index.html",
+      "old": true
     },
     {
       "path": "getting-started\\plugin-installation\\index.html"
@@ -109,6 +110,27 @@
     },
     {
       "path": "multiplayer\\sessions\\matchmaking-sessions\\index.html"
+    },
+    {
+      "path": "other-functions\\achievements\\index.html"
+    },
+    {
+      "path": "other-functions\\console-commands\\index.html"
+    },
+    {
+      "path": "other-functions\\epic-store\\index.html"
+    },
+    {
+      "path": "other-functions\\leaderboards\\index.html"
+    },
+    {
+      "path": "other-functions\\player-storage\\index.html"
+    },
+    {
+      "path": "other-functions\\statistics\\index.html"
+    },
+    {
+      "path": "other-functions\\title-storage\\index.html"
     },
     {
       "path": "resources\\css\\retype.css"
@@ -225,6 +247,9 @@
       "path": "static\\screenshot_3.png"
     },
     {
+      "path": "static\\screenshot_31.png"
+    },
+    {
       "path": "static\\screenshot_4.png"
     },
     {
@@ -247,6 +272,9 @@
     },
     {
       "path": "tutorial-videos\\setup-video\\index.html"
+    },
+    {
+      "path": "voice-interaction\\index.html"
     },
     {
       "path": "voice-interaction\\lobby-method\\index.html"
