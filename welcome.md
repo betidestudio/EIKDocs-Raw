@@ -11,7 +11,7 @@ EOS Integration Kit is a easy to use EOS SDK Implementation for Unreal Engine 5.
 
 Feature  | **EIK Marketplace**  | EIK Gitlab| EOS OSS
 ---   | ---   | ---    | ---
-Pricing | $59.99 | Open-Source | Available with  Unreal Engine
+Pricing | Free | Open-Source | Available with  Unreal Engine
 Support | Premium Support | Active Community Support | Eventual support from Epic Staff
 Platforms Supported | Windows, Android, MacOs, Linux, Oculus, iOS | Same as EIK Marketplace | Offical Support for Windows
 Update | `Weekly Updates` | Same as EIK Marketplace | Majorly comes with Engine

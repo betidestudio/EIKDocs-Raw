@@ -1,7 +1,7 @@
 ---
 order: 1000
 ---
-[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/98ZtDQd6GSo)
+[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO)
 
 So, now that you have the plugin installed, let's get started with configuration of the plugin so that you can test the game as soon as possible xD.
 
@@ -15,6 +15,8 @@ Now, go to [Epic Games DevPortal](https://dev.epicgames.com/portal/en-US/) and c
 
 ### DefaultEngine.ini
 
+!!!danger This step is no more required from 2.5.0
+!!!
 Go to the Project Folder, then Config and open DefaultEngine.ini and set the following settings ->
 
 ```
@@ -30,7 +32,7 @@ bIsUsingP2PSockets=true
 
 [/Script/Engine.GameEngine]
 !NetDriverDefinitions=ClearArray
-+NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="OnlineSubsystemEIK.NetDriverEOS",DriverClassNameFallback="OnlineSubsystemUtils.IpNetDriver")
++NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="OnlineSubsystemEIK.NetDriverEIK",DriverClassNameFallback="OnlineSubsystemUtils.IpNetDriver")
 
 
 ```

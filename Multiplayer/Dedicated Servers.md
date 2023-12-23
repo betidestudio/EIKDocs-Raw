@@ -7,17 +7,7 @@ Let's see the outline of how this process works. We will assume we have a VM (Vi
 
 ## Configuration for Server
 
-!!!warning These changes need to be made before you pack the server and are `only` required for the server.
-!!!
-
-The `DefaultEngine.ini` needs to be modified for the NetDriver settings for the server.
-
-```
-[/Script/Engine.GameEngine]
-!NetDriverDefinitions=ClearArray
-+NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="OnlineSubsystemUtils.IpNetDriver",DriverClassNameFallback="OnlineSubsystemUtils.IpNetDriver")
-
-```
+For game to allow connections to dedicated servers, you need to make the dedicated server use our game mode, namely `EIK_BaseGameMode`.
 
 ==- Artifact Settings
 

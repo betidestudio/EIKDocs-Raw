@@ -1,6 +1,6 @@
 {
-  "version": "3.0.2",
-  "created": "2023-07-20T07:39:01Z",
+  "version": "3.5.0",
+  "created": "2023-10-24T17:33:28Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -54,6 +54,9 @@
       "path": "comman-issues\\packaging-issues\\index.html"
     },
     {
+      "path": "console-commands\\index.html"
+    },
+    {
       "path": "form\\index.html"
     },
     {
@@ -82,6 +85,9 @@
     },
     {
       "path": "multiplayer\\dedicated-servers\\index.html"
+    },
+    {
+      "path": "multiplayer\\extra-functions\\index.html"
     },
     {
       "path": "multiplayer\\friend-system\\index.html"
@@ -115,10 +121,41 @@
       "path": "other-functions\\achievements\\index.html"
     },
     {
-      "path": "other-functions\\console-commands\\index.html"
+      "path": "other-functions\\console-commands\\index.html",
+      "old": true
     },
     {
       "path": "other-functions\\epic-store\\index.html"
+    },
+    {
+      "path": "other-functions\\image-1.png"
+    },
+    {
+      "path": "other-functions\\image-2.png"
+    },
+    {
+      "path": "other-functions\\image-3.png"
+    },
+    {
+      "path": "other-functions\\image-4.png"
+    },
+    {
+      "path": "other-functions\\image-5.png"
+    },
+    {
+      "path": "other-functions\\image-6.png"
+    },
+    {
+      "path": "other-functions\\image-7.png"
+    },
+    {
+      "path": "other-functions\\image-8.png"
+    },
+    {
+      "path": "other-functions\\image-9.png"
+    },
+    {
+      "path": "other-functions\\image.png"
     },
     {
       "path": "other-functions\\leaderboards\\index.html"
@@ -250,6 +287,12 @@
       "path": "static\\screenshot_31.png"
     },
     {
+      "path": "static\\screenshot_32.png"
+    },
+    {
+      "path": "static\\screenshot_33.png"
+    },
+    {
       "path": "static\\screenshot_4.png"
     },
     {
@@ -272,6 +315,39 @@
     },
     {
       "path": "tutorial-videos\\setup-video\\index.html"
+    },
+    {
+      "path": "voice-interaction\\image-1.png"
+    },
+    {
+      "path": "voice-interaction\\image-10.png"
+    },
+    {
+      "path": "voice-interaction\\image-2.png"
+    },
+    {
+      "path": "voice-interaction\\image-3.png"
+    },
+    {
+      "path": "voice-interaction\\image-4.png"
+    },
+    {
+      "path": "voice-interaction\\image-5.png"
+    },
+    {
+      "path": "voice-interaction\\image-6.png"
+    },
+    {
+      "path": "voice-interaction\\image-7.png"
+    },
+    {
+      "path": "voice-interaction\\image-8.png"
+    },
+    {
+      "path": "voice-interaction\\image-9.png"
+    },
+    {
+      "path": "voice-interaction\\image.png"
     },
     {
       "path": "voice-interaction\\index.html"

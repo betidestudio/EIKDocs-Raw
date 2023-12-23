@@ -1,7 +1,7 @@
 ---
 order: 2000
 ---
-[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://retype.com/)
+[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO)
 
 
 Let's get started with installing EOS Integration Kit into your projects, which would be the easiest step, hopefully.

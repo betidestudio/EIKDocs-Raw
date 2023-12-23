@@ -12,8 +12,11 @@ Steam ID 480 cannot be used anymore. You require to pay Steam Direct Fee to be a
 
 ![](/static/spaces_rX4RNC7NdsMt2GSjBUkF_uploads_IbhDKBCxJgsIPCRwDYGy_image.png)
 
-3. Set **Steam Networking Identity** and **Encryption Key** to be *empty*. Also, set the Steam ID to be same as your Steam ID
+1. Set the Steam ID to be same as your Steam ID
 
+!!!warning
+Set **Steam Networking Identity** and **Encryption Key** to be *empty*. 
+!!!
 ![](/static/image2.png)
 
 4. Now go to Sandboxes and the press on Identity Providers and select Steam and Save
@@ -42,3 +45,4 @@ NativePlatformService=Steam
 
 7. Call this blueprint code to login using EIK
 
+[!embed](https://blueprintue.com/render/-dqn5q83/)
