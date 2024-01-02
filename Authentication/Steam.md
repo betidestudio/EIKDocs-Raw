@@ -4,7 +4,7 @@
 Steam ID 480 cannot be used anymore. You require to pay Steam Direct Fee to be able to use Steam Login
 !!!
 
-1. Go to [Dev Portal](https://dev.epicgames.com/portal/en-US/) and then to Product Settings of the product/game you are using. 
+1. Go to your EOS [Dev Portal](https://dev.epicgames.com/portal/en-US/) and then to Product Settings of the product/game you are using. 
 
 ![](/static/image.png)
 
