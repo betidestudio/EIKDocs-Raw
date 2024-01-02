@@ -4,6 +4,7 @@
     "build": "retype build"
   },
   "dependencies": {
+    "retypeapp": "^3.5.0",
     "retypeapp-win-x64": "^3.0.2"
   }
 }

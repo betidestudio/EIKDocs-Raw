@@ -1,7 +1,8 @@
 ---
 order: 1000
 ---
-[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO)
+<!-- Add video tutorials back in once they are done -->
+<!-- [!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO) -->
 
 So, now that you have the plugin installed, let's get started with configuration of the plugin so that you can test the game as soon as possible xD.
 
@@ -15,7 +16,7 @@ Now, go to [Epic Games DevPortal](https://dev.epicgames.com/portal/en-US/) and c
 
 ### DefaultEngine.ini
 
-!!!danger This step is no more required from 2.5.0
+!!!danger As of plugin version 2.5.0 this step is no longer required.
 !!!
 Go to the Project Folder, then Config and open DefaultEngine.ini and set the following settings ->
 

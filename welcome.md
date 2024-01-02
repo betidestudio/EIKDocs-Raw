@@ -1,15 +1,15 @@
-EOS Integration Kit is a easy to use EOS SDK Implementation for Unreal Engine 5. Our main target with this is to help developers across the globe have a easy implementation of EOS and also get the support they need to have it running. 
+EOS Integration Kit is an easy to use EOS SDK Implementation for Unreal Engine 5. Our main target with this is to help developers across the globe have an easy implementation of EOS and also get the support they need to have it running. 
 
 !!! :zap: Important News :zap:
-**[Marketplace Edition](https://www.unrealengine.com/marketplace/en-US/product/eos-integration-kit) and [Gitlab Edition](https://git.betide.studio/plugins/eos-integration-kit)  of EOS Integration Kit are same**. We believe in making open-source projects and this is one of them. Consider purchasing our Marketplace Edition as this will help us make more such tools and update this plugin.
+**[Marketplace Edition](https://www.unrealengine.com/marketplace/en-US/product/eos-integration-kit) and [GitHub Edition](https://github.com/betidestudio/EOSIntegrationKit)  of EOS Integration Kit are the same**. We believe in making open-source projects and this is one of them. Consider purchasing our Marketplace Edition as this will help us make more such tools and update this plugin.
 !!!
 
 [!button variant="light" icon=":heart:" text="Marketplace Edition" margin="0 8 0 0"](https://www.unrealengine.com/marketplace/en-US/product/eos-integration-kit)
-[!button variant="info" icon=":rocket:" iconAlign="right" text="Gitlab Edition"](https://git.betide.studio/plugins/eos-integration-kit)
+[!button variant="info" icon=":rocket:" iconAlign="right" text="GitHub Edition"](https://github.com/betidestudio/EOSIntegrationKit)
 
 ### Features Comparison
 
-Feature  | **EIK Marketplace**  | EIK Gitlab| EOS OSS
+Feature  | **EIK Marketplace**  | EIK GitHub| EOS OSS
 ---   | ---   | ---    | ---
 Pricing | Free | Open-Source | Available with  Unreal Engine
 Support | Premium Support | Active Community Support | Eventual support from Epic Staff
