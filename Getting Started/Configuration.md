@@ -40,5 +40,3 @@ bIsUsingP2PSockets=true
 !!!
 Dedicated servers require a different net driver configuration, please see [Multiplayer -> Dedicated Servers](</Multiplayer/Dedicated Servers.md>).
 !!!
-
-### Android/Oculus Quest Setup

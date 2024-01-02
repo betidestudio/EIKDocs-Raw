@@ -34,10 +34,10 @@ If you have bought the plugin, go the Epic Launcher and follow the below steps -
 
 **Done, now you have the plugin ready and are ready to move to the next step 🤝**
 
-### Gitlab Edition
-[!button variant="primary" icon="download" iconAlign="left" text="Download Gitlab Edition"](https://git.betide.studio/plugins/eos-integration-kit)
+### Github Edition
+[!button variant="primary" icon="download" iconAlign="left" text="Download Gitlab Edition"](https://github.com/betidestudio/EOSIntegrationKit)
 
-Gitlab has two way to get the files, one is the Normal Clone/Download and second is the Release Section. We suggest that you use the Releases version of the plugin for which the link is linked above.
+Github has two way to get the files, one is the Normal Clone/Download and second is the Release Section. We suggest that you use the Releases version of the plugin for which the link is linked above.
 1. Go the Gitlab Releases Section and download the latest version for the version you are using.
 
 ![](/static/Screenshot_31.png)
@@ -60,3 +60,19 @@ Gitlab has two way to get the files, one is the Normal Clone/Download and second
 ![](/static/Screenshot_11.png)
 
 5. Now open the .uproject file and probably, it may ask if you want to rebuild, which you can let it to and done.
+
+
+
+!!!danger 📢 This is only for Github Edition
+
+If you are using the Github Edition, then you need to follow the below steps to get the plugin working on Mac, Linux and iOS.
+
+1. Go to the Plugins folder and open the EOSIntegrationKit.uplugin file in a text editor.
+2. You will see platform specific sections, where you need to add the Platform name which you want to add support for. For example, if you want to add support for Mac, then you need to add Mac in the WhitelistPlatforms section.
+   
+   ![Like here](image.png)
+   
+3. Now build the project and you are good to go.
+
+
+!!!

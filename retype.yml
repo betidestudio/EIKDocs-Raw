@@ -3,7 +3,7 @@ output: build\EIKDocs
 url: https://eik.betide.studio/
 branding:
   title: EOS Integration Kit
-  label: V2.6
+  label: V3.0
 links:
 - text: Betide Studio
   link: https://betide.studio

@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2023-10-24T17:33:28Z",
+  "created": "2024-01-01T20:37:33Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -66,6 +66,9 @@
       "path": "getting-started\\example-project\\index.html"
     },
     {
+      "path": "getting-started\\image.png"
+    },
+    {
       "path": "getting-started\\important-info\\index.html",
       "old": true
     },
@@ -84,6 +87,9 @@
       "old": true
     },
     {
+      "path": "multiplayer\\anti-cheat\\index.html"
+    },
+    {
       "path": "multiplayer\\dedicated-servers\\index.html"
     },
     {
@@ -95,6 +101,12 @@
     {
       "path": "multiplayer\\friends\\index.html",
       "old": true
+    },
+    {
+      "path": "multiplayer\\host-migration\\index.html"
+    },
+    {
+      "path": "multiplayer\\image.png"
     },
     {
       "path": "multiplayer\\index.html"
