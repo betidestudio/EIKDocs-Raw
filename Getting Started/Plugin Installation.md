@@ -39,7 +39,7 @@ If you have bought the plugin, go the Epic Launcher and follow the below steps -
 [!button variant="primary" icon="download" iconAlign="left" text="Download GitHub Edition"](https://github.com/betidestudio/EOSIntegrationKit)
 
 Github has two way to get the files, one is the Normal Clone/Download and second is the Release Section. We suggest that you use the Releases version of the plugin for which the link is linked above.
-1. Go the GitlHub Releases Section and download the latest version for the version you are using.
+1. Go the GitHub Releases Section and download the latest version for the version you are using.
 
 ![](/static/Screenshot_31.png)
 
