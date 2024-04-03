@@ -41,3 +41,27 @@ bIsUsingP2PSockets=true
 !!!
 Dedicated servers require a different net driver configuration, please see [Multiplayer -> Dedicated Servers](</Multiplayer/Dedicated Servers.md>).
 !!!
+
+
+### Android/Quest Setup
+
+1. Go to Project Settings -> EIK Android/IOS Settings and set all the settings. You can get the Client ID and Client Secret from the Epic Games DevPortal.
+2. Now go to your project folder and go to `Config/Android` and open `AndroidEngine.ini` and add the following settings ->
+
+```
+[OnlineSubsystemEIK]
+bEnabled=true
+
+[OnlineSubsystem]
+DefaultPlatformService=EIK
+
+[/Script/OnlineSubsystemEIK.NetDriverEIK]
+bIsUsingP2PSockets=true
+
+[/Script/Engine.GameEngine]
+!NetDriverDefinitions=ClearArray
++NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="OnlineSubsystemEIK.NetDriverEIK",DriverClassNameFallback="OnlineSubsystemUtils.IpNetDriver")
+
+``````
+
+3. Done! Now you can package the game and test it on your device.
