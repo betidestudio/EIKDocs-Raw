@@ -1,7 +1,8 @@
 ---
 order: 2000
 ---
-[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO)
+<!-- Add video tutorials back in once they are done -->
+<!-- [!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO) -->
 
 
 Let's get started with installing EOS Integration Kit into your projects, which would be the easiest step, hopefully.
@@ -35,10 +36,10 @@ If you have bought the plugin, go the Epic Launcher and follow the below steps -
 **Done, now you have the plugin ready and are ready to move to the next step 🤝**
 
 ### Github Edition
-[!button variant="primary" icon="download" iconAlign="left" text="Download Gitlab Edition"](https://github.com/betidestudio/EOSIntegrationKit)
+[!button variant="primary" icon="download" iconAlign="left" text="Download GitHub Edition"](https://github.com/betidestudio/EOSIntegrationKit)
 
 Github has two way to get the files, one is the Normal Clone/Download and second is the Release Section. We suggest that you use the Releases version of the plugin for which the link is linked above.
-1. Go the Gitlab Releases Section and download the latest version for the version you are using.
+1. Go the GitHub Releases Section and download the latest version for the version you are using.
 
 ![](/static/Screenshot_31.png)
 
