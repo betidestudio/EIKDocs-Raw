@@ -1,9 +1,10 @@
 input: .
+poweredByRetype: false
 output: build\EIKDocs
 url: https://eik.betide.studio/
 branding:
   title: EOS Integration Kit
-  label: V3.0
+  label: V3.2
 links:
 - text: Betide Studio
   link: https://betide.studio
@@ -15,7 +16,10 @@ links:
   link: https://www.youtube.com/channel/UC9jqL2gUwu2nErbzgeEngDQ
 - text: Linkedin
   link: https://www.linkedin.com/in/devesh-mishra-betide/
-- text: ❤️ Marketplace
+- text: Marketplace
   link: https://www.unrealengine.com/marketplace/en-US/profile/Betide+Studio
 footer:
   copyright: "&copy; Betide Studio Copyright {{ year }}. All rights reserved."
+integrations:
+  googleAnalytics:
+    id: G-FGD0ZRKY5H
