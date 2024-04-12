@@ -1,5 +1,5 @@
-!!!warning
-This example project is being made better for version 3 and will be released soon.
+!!!danger Important Note
+This example project is for versions older than 3.2.0. If you are using a newer version, Example Content is already included in the plugin. You can find it in the `EIK_ExampleContent` folder in the `Content` folder of the plugin.
 !!!
 
 The example project can be downloaded from the link below ->
