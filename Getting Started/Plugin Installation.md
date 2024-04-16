@@ -77,3 +77,66 @@ If you are using the Github Edition, then you need to follow the below steps to 
 
 
 !!!
+
+#### Building From Source Using The Latest Code
+
+While we do our best to ensure that the latest release is available in a pre-built format on GitHub, there may be times we are not able to update the release in a timely manner, or you may want to run the latest codebase outside of an official release. These steps will walk you through how to download the latest code changes and build your plugin from source.
+
+1. Download the latest source files from GitHub
+
+![](/static/build_instructions/Step1.png)
+![](/static/build_instructions/Step1_2.png)
+
+2. Once downloaded, open the file `EOSIntegrationKit-main.zip` and extract it into your Projects `Plugins` directory. Rename the file to `EOSIntegrationKit`
+
+![](/static/build_instructions/Step2.png)
+
+3. Download the Epic Online Services SDK
+
+The EOS SDK can be downloaded from the [Epic Games Dev Portal](https://dev.epicgames.com/portal/en-US/)
+
+Once logged into the Dev Portal, click SDK & Release Notes
+
+![](/static/build_instructions/Step3.png)
+
+Then select the correct SDK Version
+
+!!!info
+Current SDK Version: 1.16.2-CL32273396
+!!!
+
+![](/static/build_instructions/Step3_1.png)
+
+4. Copy the SDK into the EOSIntegrationKit Plugin
+
+Open the .zip file and extract the contents of the SDK folder into `YourProject\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK`
+
+![](/static/build_instructions/Step4.png)
+
+Open the `Lib` directory and copy the two .lib files
+
+![](/static/build_instructions/Step4_1.png)
+
+Paste them into to the `Bin` directory
+
+![](/static/build_instructions/Step4_2.png)
+
+5. Generate Project Files
+
+Follow step 4 in the [Github Edition](#github-edition) section to regenerate your project files.
+
+6. Build Project
+
+Once you have done all the above steps, it's time to build your project.
+
+Open up the .sln file that was generated in Step 5 and Visual Studio will open. 
+
+At the top, select 'Build' from the menu, and select `Build Solution`
+
+![](/static/build_instructions/Step6.png)
+
+If you have no other issues in your project, the solution should build with no issues or warning.
+
+!!!info
+The error list in Visual Studio is notorious for giving false positives. For reliable information make sure to check the `Output Log` in visual studio for any successes or failures. The output log appears as a tab next to 'Error List' in the bottom of the Visual Studio IDE. If you cannot find this window, you can enable it by using `View > Output` 
+!!!
