@@ -1,4 +1,5 @@
-[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO)
+<!-- Add video tutorials back in once they are done -->
+<!-- [!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO) -->
 
 !!!info
 You need a Stat Created before you can create an Achievement. Check out [Stats](/other-functions/statistics/) for more info.

@@ -1,4 +1,5 @@
-[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://retype.com/)
+<!-- Add video tutorials back in once they are done -->
+<!-- [!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://retype.com/) -->
 
 ## Creating a Matchmaking Session
 Here, as in the code, call Create EIK Session. 

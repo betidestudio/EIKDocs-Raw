@@ -1,7 +1,8 @@
 ---
 order: 2500
 ---
-[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO)
+<!-- Add video tutorials back in once they are done -->
+<!-- [!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://youtu.be/tCuE6YOg_-I?si=saGI9DT7IiF_DwjO) -->
 
 !!!warning
 There is no way till the time of writing of docs to upload files and data to Title Storage using any API or from game, so has to be done only through the DevPortal
