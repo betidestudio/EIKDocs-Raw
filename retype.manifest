@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2024-04-11T22.05.36Z",
+  "created": "2024-04-19T13.24.16Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -106,6 +106,9 @@
       "old": true
     },
     {
+      "path": "image.png"
+    },
+    {
       "path": "index.html"
     },
     {
@@ -130,6 +133,18 @@
     },
     {
       "path": "multiplayer\\host-migration\\index.html"
+    },
+    {
+      "path": "multiplayer\\image-1.png"
+    },
+    {
+      "path": "multiplayer\\image-2.png"
+    },
+    {
+      "path": "multiplayer\\image-3.png"
+    },
+    {
+      "path": "multiplayer\\image-4.png"
     },
     {
       "path": "multiplayer\\image.png"
@@ -214,6 +229,9 @@
       "path": "other-functions\\title-storage\\index.html"
     },
     {
+      "path": "plan-for-version-4-update\\index.html"
+    },
+    {
       "path": "resources\\css\\retype.css"
     },
     {
@@ -254,6 +272,33 @@
     },
     {
       "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\build_instructions\\step1_2.png"
+    },
+    {
+      "path": "static\\build_instructions\\step1.png"
+    },
+    {
+      "path": "static\\build_instructions\\step2.png"
+    },
+    {
+      "path": "static\\build_instructions\\step3_1.png"
+    },
+    {
+      "path": "static\\build_instructions\\step3.png"
+    },
+    {
+      "path": "static\\build_instructions\\step4_1.png"
+    },
+    {
+      "path": "static\\build_instructions\\step4_2.png"
+    },
+    {
+      "path": "static\\build_instructions\\step4.png"
+    },
+    {
+      "path": "static\\build_instructions\\step6.png"
     },
     {
       "path": "static\\devtool_addcontext.png"
