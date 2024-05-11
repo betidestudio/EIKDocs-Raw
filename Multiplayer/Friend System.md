@@ -1,4 +1,5 @@
-[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://retype.com/)
+<!-- Add video tutorials back in once they are done -->
+<!-- [!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://retype.com/) -->
 
 There are two type of friend systems that can be implemented using EOS. Let us see what are those -> 
 

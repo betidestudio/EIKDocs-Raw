@@ -1,4 +1,5 @@
-[!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://retype.com/)
+<!-- Add video tutorials back in once they are done -->
+<!-- [!badge variant="danger" target="blank" size="xl" icon="video" text="Video Tutorial"](https://retype.com/) -->
 
 Dedicated Server hosting is meant to be easy with EOS Integration Kit. In place of the default 7777 port that EOS uses to run dedicated servers, we have methods to use different ports because usually what happens is that a single machine can run multiple dedicated server but if we use *default* method, we can only use a single port or to be precise, a single session on a single server. But with EIK, **you can use multiple sessions on a single machine.**
 
