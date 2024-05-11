@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2024-04-19T13.24.16Z",
+  "created": "2024-05-09T14.36.14Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -161,8 +161,22 @@
       "old": true
     },
     {
-      "path": "multiplayer\\sessions\\index.html",
-      "old": true
+      "path": "multiplayer\\sessions\\image-1.png"
+    },
+    {
+      "path": "multiplayer\\sessions\\image-2.png"
+    },
+    {
+      "path": "multiplayer\\sessions\\image-3.png"
+    },
+    {
+      "path": "multiplayer\\sessions\\image-4.png"
+    },
+    {
+      "path": "multiplayer\\sessions\\image.png"
+    },
+    {
+      "path": "multiplayer\\sessions\\index.html"
     },
     {
       "path": "multiplayer\\sessions\\lobbies\\index.html"
