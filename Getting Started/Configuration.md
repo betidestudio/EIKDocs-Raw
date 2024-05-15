@@ -12,7 +12,11 @@ Go to **Project Settings** and then go to *Game* -> *EOS Integration Kit*
 
 ![](/static/Screenshot_12.png)
 
-Now, go to [Epic Games DevPortal](https://dev.epicgames.com/portal/en-US/) and create a new product or use existing product. 
+Now, go to [Epic Games DevPortal](https://dev.epicgames.com/portal/en-US/) and create a new product or use existing product. Fill out the values in your project settings with the ones you got from eos dev portal. 
+
+### Leave lobby button
+
+For the leave lobby button in social overlay to work you need to specify a level name that the player should open. If you leave bland it will open your default game level.
 
 ### DefaultEngine.ini
 

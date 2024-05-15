@@ -1,6 +1,6 @@
 # Reports
 
-## Send Report
+### Send Report
 
 The function used to send the report is not complicated, in fact it is fairly easy. You need the target player's product user id, and the local players product user id. Then you simply let the player filing the report fill out the rest in some ui and press send report, calling the function with the player inputed parameters. 
 
@@ -15,4 +15,11 @@ There are a plenty of ways to get the target players product user id, one way is
 
 [!embed](https://blueprintue.com/render/f4ytvwhg/)
 
+## Show Epic Player Report Ui
 
+The purpose of this function is to report the players account to Epic Games, an example could be an offensive display name. This is not meant for reporting cheating or other negative behaviour. This will open a window in Epics overlay.
+
+###  Show Epic Player Report Ui Input Parameters
+
+- `Target User Id` The target Epic Account Id
+- `Local User Id`

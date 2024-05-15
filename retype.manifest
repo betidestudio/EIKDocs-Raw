@@ -231,6 +231,15 @@
       "path": "other-functions\\player-reports\\index.html"
     },
     {
+      "path": "other-functions\\user-info\\index.html"
+    },
+    {
+      "path": "authentication\\getting-auth-token\\index.html"
+    },
+    {
+      "path": "authentication\\support-tickets\\index.html"
+    },
+    {
       "path": "other-functions\\player-storage\\index.html"
     },
     {
